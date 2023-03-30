@@ -1,0 +1,14 @@
+{
+  "name": "automacaoewally",
+  "version": "1.0.0",
+  "description": "Automação de fluxos",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Diego de Sousa Pereira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
+}
